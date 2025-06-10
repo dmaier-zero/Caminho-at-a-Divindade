@@ -30,7 +30,7 @@ Sinta-se livre para acompanhar o progresso ou sugerir melhorias.
 
 ## 👤 Desenvolvedor
 
-**dmaier-zero**
+**Pablo Sedlmaier**
 
 ---
 
